@@ -1,0 +1,14 @@
+.bulletin{
+  width:100%;
+}
+.blackline{
+  width:100%;
+  height:75px;
+  background:black;
+}
+.MuiTableHead-root{
+  text-align: center;
+}
+.MuiTableCell-body{
+  text-align: center;
+}
